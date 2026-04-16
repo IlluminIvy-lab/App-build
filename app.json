@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Agenda Flow",
+    "slug": "agenda-flow-android",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.genspark.agendaflow",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
